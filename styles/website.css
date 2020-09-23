@@ -1,0 +1,61 @@
+@charset "utf-8";
+
+.page-inner{
+   max-width: 1030px !important;
+}
+
+H2,h3,h4{
+   Margin-top:80px !important;
+}
+
+.book .book-summary .book-logo {
+	text-align: left;
+    background-color: #0077ff;
+}
+
+.gitbook-link{
+	 display: none !important;
+}
+
+
+.book-summary ul.summary li a:hover{
+	text-decoration: none;
+	color: #0077ff;
+}
+
+hr{
+	height: 1px !important;
+}
+
+
+.markdown-section blockquote{
+	margin-bottom: 40px !important;
+	line-height: 2;
+}
+
+.book-summary ul.summary li.active>a{
+Color:#0077ff !important;
+Font-weight: 600;
+}
+
+#anchor-navigation-ex-navbar{
+border-radius: 4px;
+}
+
+#anchor-navigation-ex-navbar > I{
+color: #0077ff;
+}
+
+#anchor-navigation-ex-navbar ul li a{
+Color: rgba(0,0,0,0.65);
+Font-size: 12px !important;
+Line-height: 20px !important;
+}
+
+.markdown-section blockquote{
+Color:rgba(0,0,0,0.65);
+}
+
+.book-summary{
+Background: #f6f9fc !important;
+}
